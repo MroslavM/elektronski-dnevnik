@@ -1,0 +1,17 @@
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\bin\Debug\e_dnevnik.exe.config
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\bin\Debug\e_dnevnik.exe
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\bin\Debug\e_dnevnik.pdb
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.csproj.AssemblyReference.cache
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Osoba.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Properties.Resources.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.csproj.GenerateResource.cache
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.csproj.CoreCompileInputs.cache
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.exe
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.pdb
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Glavna.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Login.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Sifarnik.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Raspodela.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Glavna2.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Upisnica.resources
+D:\KIMI\elektronski-dnevnik\e_dnevnik\e_dnevnik\obj\Debug\e_dnevnik.Ocena.resources

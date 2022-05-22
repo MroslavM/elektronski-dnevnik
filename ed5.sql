@@ -2,14 +2,14 @@ use master
 create database ednevnik
 use ednevnik
 
---drop table ocena
---drop table raspodela
---drop table upisnica
---drop table predmet
---drop table odeljenje
---drop table osoba
---drop table smer
---drop table skolska_godina
+drop table ocena
+drop table raspodela
+drop table upisnica
+drop table predmet
+drop table odeljenje
+drop table osoba
+drop table smer
+drop table skolska_godina
 
 create table Smer(
 id INT IDENTITY(1,1) PRIMARY KEY,
